@@ -1,0 +1,13 @@
+num=23
+print(float(num))
+print(int(num))
+name="codegnan"
+print(tuple(name))
+print(list(name))
+print(set(name))
+l=[1,2,3,4,5,6]
+print(set(l))
+t=(1,23,"vivek")
+print(str(t))
+print(list(t))
+print(set(t))
